@@ -13,7 +13,8 @@ public class U4Actividad2RCG {
 
     
     public static void main(String[] args) {
-        
+        U4Actividad2RCG programa = new Actividad2RCG();
+        programa.inicio();
     }
     
 }
